@@ -1,0 +1,175 @@
+{
+  "handles": [
+    "@OkLilclaritin",
+    "@liv_healy",
+    "@BGeunes",
+    "@_andrewpolk",
+    "@camhalls",
+    "@_dpendergrass5_",
+    "@dawson_kling",
+    "@aleccantor",
+    "@dav_ware",
+    "@Jack_Flood_",
+    "@StephenMcc_",
+    "@taylor_m_wells",
+    "@sydn1echan"
+  ],
+  "greetings": [
+    "Hello",
+    "hello",
+    "Hi",
+    "hi",
+    "Hi there",
+    "hi there",
+    "Hello there",
+    "hello there"
+  ],
+  "uncertainty": [
+    "did",
+    "not sure if",
+    "i am not sure if",
+    "I'm not sure if",
+    "i don't know if"
+  ],
+  "desire": [
+    "hope",
+    "hoping",
+    "I'm hoping",
+    "I am hoping"
+  ],
+  "message_types": [
+    "email",
+    "e-mail",
+    "e mail",
+    "letter",
+    "fax",
+    "christmas card",
+    "birthday card",
+    "text",
+    "text message"
+  ],
+  "my_relatives": [
+    "son",
+    "adult son",
+    "daughter",
+    "adult daughter",
+    "neice",
+    "nephew",
+    "grandson",
+    "adult grandson",
+    "granddaughter",
+    "adult granddaughter"
+  ],
+  "your_relatives": [
+    "mother",
+    "father",
+    "mom",
+    "dad",
+    "your brother",
+    "ur brother",
+    "your sister",
+    "ur sister",
+    "your cousin",
+    "ur cousin"
+  ],
+  "first_person": [
+    "nana",
+    "Grandma",
+    "Grammy",
+    "your grandmother",
+    "gramps",
+    "grandpa",
+    "grampa",
+    "pawpaw"
+  ],
+  "doing_well": [
+    "doing well",
+    "healthy",
+    "okay",
+    "well"
+  ],
+  "sorrow": [
+    "I am very sorry to say",
+    "I am very sorry to tell you",
+    "I'm extremely sorry to announce that",
+    "it is with a heavy heart that I inform you that"
+  ],
+  "death": [
+    "has passed",
+    "passed",
+    "has passed away",
+    "passed away",
+    "has died",
+    "died",
+    "is no longer with us",
+    "is in a better place"
+  ],
+  "dates": [
+    "this evening",
+    "tomorrow evening",
+    "tomorrow morning",
+    "tomorrow afternoon",
+    "tomorrow",
+    "this weekend",
+    "next week",
+    "later this week",
+    "later this month"
+  ],
+  "proud": [
+    "I am very proud",
+    "I'm so proud",
+    "im very proud",
+    "im so proud",
+    "you should be very proud",
+    "you should be so proud"
+  ],
+  "accomplishments": [
+    "your accomplishments",
+    "everything you've done",
+    "all you've accomplished"
+  ],
+  "foods": [
+    "garlic bread",
+    "deviled eggs"
+  ],
+  "goodbyes": [
+    "love, ",
+    " hugs, ",
+    "hugs and kisses, ",
+    "much love, ",
+    "Hugs!!",
+    "kisses!!"
+  ],
+  "random": [
+    "Hope you had a good thanksgiving",
+    "Happy holidays", 
+    "Sending warm wishes"
+  ],
+  "send_tweet": [
+    "twitter send tweet",
+    "post tweet",
+    "Post",
+    "tweeter post tweet",
+    "Twitter post",
+    "tweeter tweet now",
+    "how to post tweet"
+  ],
+  "punctuation": [
+    ". ",
+    " . ",
+    ".. ",
+    " .. ",
+    "... ",
+    " ... ",
+    ", ",
+    " , ",
+    "! ",
+    " ! ",
+    "!! ",
+    " !! ",
+    "? ",
+    " ? ",
+    "?? ",
+    " ?? "
+  ]
+}
