@@ -103,7 +103,7 @@ function createTweet() {
   let tweet = templates[lastTemplate]();
 
   // post the tweet
-  if(tweet !== '') {
+  if(tweet !== undefined) {
     postTweet(tweet);
   }
 
