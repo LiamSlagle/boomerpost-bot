@@ -47,7 +47,7 @@ var templates = {
   proudOfYou: function() {
     return sample(r.handles) + ' ' +
       sample(r.greetings) + ' ' +
-      sample(r.proud) + ' of your' + sample(r.accomplishments) +
+      sample(r.proud) + ' of' + sample(r.accomplishments) +
       sample(r.punctuation) + sample(r.goodbyes) + sample(r.first_person)
   },
   corporation: function() {
@@ -112,4 +112,3 @@ function createTweet() {
 };
 
 createTweet();
-setInterval(createTweet, 2*60*1000);
